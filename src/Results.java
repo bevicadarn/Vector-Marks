@@ -34,6 +34,7 @@ public class Results {
         }
 
           // Check if end of file reached
+        //tfrh
 
           if (inputString == null) {
           finished = true;
